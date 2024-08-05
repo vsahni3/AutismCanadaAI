@@ -4,7 +4,7 @@ This is a chatbot that efficiently retrieves relevant information from a databse
 
 Usage:
 1. clone this repo locally
-2. type 'python -m venv myenv' in cmd
+2. type 'python -m venv venv' in cmd
 3. 'source venv/bin/activate'
 4. 'pip install -r requirements.txt' to install packages
 5. you can call the `create_pdfs` to populate your local dir with sample pdfs
